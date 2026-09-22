@@ -1,7 +1,7 @@
 ---
 title: "中子星观测站：这个博客的架构与理念"
 slug: "neutron-observatory-architecture"
-excerpt: "[E2E-FINAL] 为什么选择 Astro + Edge BFF + FastAPI 的四层架构，以及内容热发布通道如何实现 1~3 秒生效。"
+excerpt: "为什么选择 Astro + Edge BFF + FastAPI 的四层架构，以及内容热发布通道如何实现 1~3 秒生效。"
 published_at: "2026-09-22T10:00:00+08:00"
 updated_at: "2026-09-22T10:00:00+08:00"
 author: "NeutronStar"
