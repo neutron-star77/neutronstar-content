@@ -1,7 +1,7 @@
 ---
 title: "Markdown 写作指南：在中子星发布文章"
 slug: "markdown-writing-guide"
-excerpt: "文章 frontmatter 字段说明、正文写作规范、图片引用方式，以及代码块和引用的最佳实践。 hotprobe1790099746"
+excerpt: "文章 frontmatter 字段说明、正文写作规范、图片引用方式，以及代码块和引用的最佳实践。"
 published_at: "2026-09-20T14:30:00+08:00"
 updated_at: "2026-09-22T09:00:00+08:00"
 author: "NeutronStar"
