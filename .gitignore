@@ -1,0 +1,11 @@
+# 系统/编辑器垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# 本地临时
+*.tmp
+*.bak
