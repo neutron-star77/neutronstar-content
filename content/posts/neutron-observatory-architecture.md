@@ -58,3 +58,5 @@ GitHub push → Edge 验签 → FastAPI 拉取指定提交
 > 视觉可以有记忆点，但不能让动画阻塞内容。
 
 这就是 Neutron Observatory 的全部设计哲学。
+
+<!-- regress-touch -->
